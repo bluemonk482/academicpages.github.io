@@ -54,7 +54,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter 
+  username               : &twitter "bluemonk482"
 facebook:
   username               : 
   app_id                 :
@@ -65,22 +65,24 @@ og_image                 :  # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links: 
+     - "https://twitter.com/bluemonk482"
+     - "https://www.facebook.com/bowang482"
 
 
 # Analytics
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : 
+    tracking_id          : "UA-96227599-1"
 
 
 # Site Author
 author:
   name             : "Bo Wang"
   avatar           : "profile.png"
-  bio              : "PhD in progress at [University of Warwick](http://www2.warwick.ac.uk/fac/sci/dcs/)"
-  location         : "Location"
+  bio              : "Natural Language Processing, Text Mining and Machine Learning researcher. PhD in progress at <a style='color: black;' href='http://www2.warwick.ac.uk/fac/sci/dcs/'>University of Warwick</a>"
+  location         : "Kenilworth, UK"
   employer         : 
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : 
@@ -96,14 +98,14 @@ author:
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/bo-wang-3b809342/"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "bluemonk482"
+  twitter          : *twitter
   vine             :
   weibo            :
   xing             :
