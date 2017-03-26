@@ -5,9 +5,11 @@ permalink: /publications/microposts2015
 venue: "5th workshop on Making Sense of Microposts (#Microposts2015), WWW"
 excerpt: 'We study the suitability of five classification algorithms and four different feature sets to the social spam detection task.'
 date: 2015-05-18
-paperurl: [pdf](https://bluemonk482.github.io/files/microposts2015.pdf)
+paperurl: https://bluemonk482.github.io/files/microposts2015.pdf
 citation: 'Bo Wang et al. (2015). "Making the Most of Tweet-inherent Features for Social Spam Detection on Twitter" <i>5th workshop on Making Sense of Microposts (#Microposts2015), WWW, </i>, 2015'
 ---
+
+<a href='https://bluemonk482.github.io/files/microposts2015.pdf'>Download PDF here</a>
 
 ## Abstract
 Social spam produces a great amount of noise on social media services such as Twitter, which reduces the signal-to-noise ratio that both end users and data mining applications observe. Existing techniques on social spam detection have focused primarily on the identification of spam accounts by using extensive historical and network-based data. In this paper we focus on the detection of spam tweets, which optimises the amount of data that needs to be gathered by relying only on tweet-inherent features. This enables the application of the spam detection system to a large set of tweets in a timely fashion, potentially applicable in a real-time or near real-time setting. Using two large hand-labelled datasets of tweets containing spam, we study the suitability of five classification algorithms and four different feature sets to the social spam detection task. Our results show that, by using the limited set of features readily available in a tweet, we can achieve encouraging results which are competitive when compared against existing spammer detection systems that make use of additional, costly user features. Our study is the first that attempts at generalising conclusions on the optimal classifiers and sets of features for social spam detection over different datasets.
