@@ -5,7 +5,7 @@ permalink: /publications/semeval2015
 venue: "9th International Workshop on Semantic Evaluation (SemEval)"
 excerpt: ''
 date: 2015-06-04
-paperurl: https://bluemonk482.github.io/files/semeval2015.pdf
+paperurl: 
 citation: 'R. Townsend et al. (2015). "WarwickDCS: From Phrase-based to Target-specific Sentiment Recognition" <i>SemEval</i>, 2015'
 ---
 

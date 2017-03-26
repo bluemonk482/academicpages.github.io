@@ -5,7 +5,7 @@ permalink: /publications/microposts2015
 venue: "5th workshop on Making Sense of Microposts (#Microposts2015), WWW"
 excerpt: 'We study the suitability of five classification algorithms and four different feature sets to the social spam detection task.'
 date: 2015-05-18
-paperurl: https://bluemonk482.github.io/files/microposts2015.pdf
+paperurl: 
 citation: 'Bo Wang et al. (2015). "Making the Most of Tweet-inherent Features for Social Spam Detection on Twitter" <i>5th workshop on Making Sense of Microposts (#Microposts2015), WWW, </i>, 2015'
 ---
 

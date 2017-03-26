@@ -5,7 +5,7 @@ permalink: /publications/saaip2016
 venue: "In 4th Workshop on Sentiment Analysis where AI meets Psychology (SAAIP), IJCAI"
 excerpt: 'A model-based adaptive SVM approach for classifying emotion categories on Twitter across different domains.'
 date: 2017-07-08
-paperurl: https://bluemonk482.github.io/files/saaip2016.pdf
+paperurl: 
 citation: 'Bo Wang et al. (2016). "SMILE: Twitter Emotion Classification using Domain Adaptation" <i>4th Workshop on Sentiment Analysis where AI meets Psychology, IJCAI</i>, 2016'
 ---
 
