@@ -81,10 +81,10 @@ analytics:
 author:
   name             : "Bo Wang"
   avatar           : "profile.png"
-  bio              : "Natural Language Processing, Text Mining and Machine Learning researcher | PhD in progress at <a style='color: black;' href='http://www2.warwick.ac.uk/fac/sci/dcs/'>University of Warwick</a>"
-  location         : "Kenilworth, UK"
+  bio              : "Visiting Researcher @turinginst; PhD @WarwickDCS; Previously @uclcs | Natural Language Processing, Text Mining, Machine Learning"
+  location         : "London, UK"
   employer         : 
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.co.uk/citations?user=8E-TIKYAAAAJ&hl=en"
   email            : 
   uri              : 
   bitbucket        :
