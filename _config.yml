@@ -66,7 +66,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: 
-     - "https://twitter.com/bluemonk482"
+     - "https://twitter.com/bwang482"
      - "https://www.facebook.com/bowang482"
 
 
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Bo Wang"
   avatar           : "profile.png"
-  bio              : "Visiting Researcher @turinginst; PhD @WarwickDCS; Previously @uclcs | Natural Language Processing, Text Mining, Machine Learning"
+  bio              : ""
   location         : "London, UK"
   employer         : 
   googlescholar    : "https://scholar.google.co.uk/citations?user=8E-TIKYAAAAJ"
@@ -93,7 +93,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "bluemonk482"
+  github           : ""
   google_plus      :
   keybase          :
   instagram        : 

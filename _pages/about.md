@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-PhD in sentiment classification and summarisation @ University of Warwick. Currently visiting the Alan Turing Institute. 
+Oxford Psychiatry and the Alan Turing Institute. 
