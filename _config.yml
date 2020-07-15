@@ -54,7 +54,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "bluemonk482"
+  username               : &twitter "bwan482"
 facebook:
   username               : 
   app_id                 :
@@ -67,7 +67,7 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: 
      - "https://twitter.com/bwang482"
-     - "https://www.facebook.com/bowang482"
+     - ""
 
 
 # Analytics
